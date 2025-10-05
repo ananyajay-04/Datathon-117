@@ -35,7 +35,7 @@ This project analyzes fetal heart rate patterns and uterine contractions to auto
 ---
 
 ## 🎥 Demo Video
-[Watch our 2-minute demo video here]
+[Watch our demo video here]
 https://drive.google.com/file/d/1i9HDC4BSgHOQyNB_NhZghefVr80nsqO-/view?usp=drive_link
 
 ---
