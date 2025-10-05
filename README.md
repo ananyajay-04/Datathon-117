@@ -26,8 +26,8 @@ This project analyzes fetal heart rate patterns and uterine contractions to auto
 ---
 
 ## 📂 Repository Contents
-- `data_cleaning.ipynb` → Data preprocessing and visualization  
-- `model_training.ipynb` → Model building and evaluation  
+- `test.py.ipynb` → Data preprocessing and visualization  
+- `test.py.ipynb` → Model building and evaluation  
 - `report.pdf` → 1-page academic report  
 - `README.md` → Project overview and team details  
 
