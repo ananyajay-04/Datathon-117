@@ -26,9 +26,10 @@ This project analyzes fetal heart rate patterns and uterine contractions to auto
 ---
 
 ## 📂 Repository Contents
-- `test.py.ipynb` → Data preprocessing and visualization  
+- `train.py.ipynb` → Data preprocessing and visualization  
 - `test.py.ipynb` → Model building and evaluation  
-- `report.pdf` → 1-page academic report  
+- `Datathon Report.pdf` → 1-page academic report
+- `ctgdata.xlsx` → dataset that was used 
 - `README.md` → Project overview and team details  
 
 ---
